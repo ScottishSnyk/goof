@@ -1,3 +1,5 @@
+This is an example of a change to the branch for a Snyk presentation.
+
 # Goof - Snyk's vulnerable demo app
 [![Known Vulnerabilities](https://snyk.io/test/github/snyk/goof/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
 
